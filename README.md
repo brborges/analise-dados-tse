@@ -1,7 +1,18 @@
 # Análise dos dados do TSE sobre candidatos as eleições de 2022
 
 
-Dados coletados a partir do site do TSE: [dadosabertos.tse.jus.br/dataset/candidatos-2022](https://dadosabertos.tse.jus.br/dataset/candidatos-2022) em 18/9/2022.
+Dados coletados a partir do site do TSE: [dadosabertos.tse.jus.br/dataset/candidatos-2022](https://dadosabertos.tse.jus.br/dataset/candidatos-2022).
+
+| Campo	| Valor |
+|---|---|
+| Fonte	| Sistemas: CAND, Candex e DivulgaCand
+| Última Atualização | 31 de agosto de 2022, 19:43 (UTC-03:00)
+| Criado |	20 de julho de 2022, 14:58 (UTC-03:00)
+| Contato para dúvidas/sugestões | http://www.tse.jus.br/eleitor/servicos/ouvidoria/formulario-da-assessoria-de-informacao-ao-cidadao
+| Escopo Geopolítico |	Brasil
+| Extração dos Dados |	Data de geração disponível por arquivo
+| Frequência de atualização |	Diária
+| Área Gestora |	Assessoria de Gestão Eleitoral - AGEL
 
 ## Introdução
 
