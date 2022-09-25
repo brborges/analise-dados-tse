@@ -1,7 +1,7 @@
 # Análise dos dados do TSE sobre candidatos as eleições de 2022
 
 
-Dados coletados a partir do site do TSE: [dadosabertos.tse.jus.br/dataset/candidatos-2022](https://dadosabertos.tse.jus.br/dataset/candidatos-2022).
+Dados coletados a partir do site do TSE: [dadosabertos.tse.jus.br/dataset/candidatos-2022](https://dadosabertos.tse.jus.br/dataset/candidatos-2022) em 18/9/2022.
 
 ## Introdução
 
